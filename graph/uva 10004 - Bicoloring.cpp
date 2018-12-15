@@ -1,10 +1,4 @@
 #include <bits/stdc++.h>
-#define all(x)      x.begin(),x.end()
-#define ff          first
-#define ss          second
-#define len(a)      (int)a.size()
-#define intlim      2147483647
-
 #define FI freopen ("inp.txt", "r", stdin)
 #define FO freopen ("out.txt", "w", stdout)
 using namespace std;
